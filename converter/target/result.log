@@ -1,0 +1,32 @@
+----- 12-04-2022 18:03:34 -----
+Logger.java is not valid! java.io.IOException
+
+----- 12-04-2022 18:03:38 -----
+Logger.java is not valid! java.io.IOException
+
+----- 12-04-2022 18:03:41 -----
+Logger.java is not valid! java.io.IOException
+
+-----12-04-2022 18:03:46-----
+JSON file name : file.json --> file.yaml
+JSON file size : 187 --> 234
+Execution time: 208.0ms
+
+-----12-04-2022 18:03:46-----
+YAML file name : file.yaml --> file.json
+YAML file size : 221 --> 187
+Execution time: 25.0ms
+
+----- 12-04-2022 18:04:46 -----
+Logger.java is not valid! java.io.IOException
+
+-----12-04-2022 18:04:51-----
+JSON file name : file.json --> file.yaml
+JSON file size : 187 --> 234
+Execution time: 153.0ms
+
+-----12-04-2022 18:04:51-----
+YAML file name : file.yaml --> file.json
+YAML file size : 221 --> 187
+Execution time: 19.0ms
+
